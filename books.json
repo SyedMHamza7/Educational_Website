@@ -1,0 +1,94 @@
+[{
+    "id" : 1,
+    "title" : "Arabic Grammar (CBSE)",
+    "isbn" : "ISBN81-7898-539-X",
+    "pageCount" : 210,
+    "publishedDate" :"2009-04-22",
+    "thumbnailUrl" :"https://images-na.ssl-images-amazon.com/images/I/51NcUZUWg0L._SX320_BO1,204,203,200_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic", "Persian"]
+
+},
+
+{
+    "id" : 2,
+    "title" : "Arabic Alphabet Flash Cards",
+    "isbn" : "ISBN81-7898-540-X",
+    "pageCount" : 211,
+    "publishedDate" :"2009-04-23",
+    "thumbnailUrl" :"https://images-eu.ssl-images-amazon.com/images/I/51ibDWf830L._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic"]
+
+},
+
+
+
+{
+    "id" : 3,
+    "title" : "Arabic for Beginners ",
+    "isbn" : "ISBN81-7898-541-X",
+    "pageCount" : 299,
+    "publishedDate" :"2005-04-24",
+    "thumbnailUrl" :"https://images-na.ssl-images-amazon.com/images/I/516HVUfMz-L._SX350_BO1,204,203,200_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic"]
+
+},
+{
+    
+    "id" : 4,
+    "title" : "Essential Arabic: A Learner's Practical Guide ",
+    "isbn" : "ISBN81-7898-543-X",
+    "pageCount" : 350,
+    "publishedDate" :"2006-04-24",
+    "thumbnailUrl" :"https://images-na.ssl-images-amazon.com/images/I/51rYz6ISihL._SX319_BO1,204,203,200_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic"]
+
+},
+
+{
+    "id" : 5,
+    "title" : "Arabic Reading Lessons",
+    "isbn" : "ISBN81-7898-544-X",
+    "pageCount" : 358,
+    "publishedDate" :"2007-04-24",
+    "thumbnailUrl" :"https://images-eu.ssl-images-amazon.com/images/I/51aSjH1FzhL._SY264_BO1,204,203,200_QL40_ML2_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic"]
+
+},
+
+{
+
+    "id" : 6,
+    "title" : "Spoken Arabic Made Easy",
+    "isbn" : "ISBN81-7898-545-X",
+    "pageCount" : 400,
+    "publishedDate" :"2010-04-24",
+    "thumbnailUrl" :"https://images-na.ssl-images-amazon.com/images/I/51GnbJwlINL._SX373_BO1,204,203,200_.jpg",
+    "shortDescription" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus.",
+    "longDespriction" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, sodales ac leo non, condimentum malesuada risus. Curabitur eu tristique arcu, ut dignissim risus. Nunc sit amet enim purus. Morbi posuere fermentum semper. Etiam facilisis diam nec lorem porttitor, nec blandit eros fermentum. Nam eleifend id justo ac eleifend. Pellentesque urna dolor, faucibus vel eleifend eget, luctus eget elit. Integer lectus ipsum, vestibulum at lorem a, eleifend ultricies metus. Quisque eget felis eu mauris tincidunt finibus at sed mi.",
+    "status" : "Published",
+    "authors" : [" Syed Ali Mohammad"],
+    "categories" :["Arabic"]
+}
+
+
+]
