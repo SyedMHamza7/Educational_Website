@@ -2,15 +2,15 @@ This is first set of changes
 
 New Change
 
-First change by Mani
+First change by Hamza
 
-First check in by Mani
+First check in by Hamza
 
-Second check in by Mani
+Second check in by Hamza
 
-Third Check by Mani
+Third Check by Hamza
 
-seventh commit by mani
+seventh commit by Hamza
  Structure done 
 
 
