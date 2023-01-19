@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ISLAM SCIENCE KNOWLEDGE</title>
+  {% load static %}
+  <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+</head>
+
+<body>
+  <div class="justify-self-stretch">
+    <img style="width:100%;"
+      src="https://www.islamicity.org/wp-content/plugins/blueprint-timthumb/timthumb.php?src=http://www.islamicity.org/global/images/photo/IC-Articles/islamsciencemosque__1024x667.JPG&w=1200&h=675&q=100">
+
+    <div style="background-image: url('{% static 'background.png' %}');">
+      <h1>Welcome to Islam and Science</h1>
+      <h2>This is a humble initiative by Professor (Dr.) Syed Ali Mohammad. This website contains downloadable ebooks
+        and InshaAllah will
+        soon have more content.</h2>
+      <br>
+      <br>
+      <h1 class="text-center text-4xl">Downloadable EBooks</h1>
+      <br>
+      <div>
+        {% for post in file %}
+        <h2><a href="{{post.adminupload.url}}" download="{{post.adminupload.url}}">{{post.title}}</a></h2>
+        <br>
+        {% endfor %}
+      </div>
+      <br>
+      <br>
+      <h2>
+        <a href="https://www.youtube.com/channel/UCY9Xrus6ZfJpS1SK7OJXgfg"><img src="{% static 'youtube_logo.jpg' %}"
+            style="width:42px;height:42px;">Islam and Science Youtube Channel</a>
+      </h2>
+    </div>
+</body>
+<footer>
+  <div class="footer-content">
+    <h3>Islam and Science by eliyakalam publications</h3>
+    <ul class="socials">
+      <li><a href="https://www.youtube.com/channel/UCY9Xrus6ZfJpS1SK7OJXgfg"><i class="fa fa-youtube"></i></a></li>
+      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+    </ul>
+  </div>
+  <div class="footer-bottom">
+    <p>
+    <h4>eliyakalam 2021</h4>
+    </p>
+  </div>
+</footer>
+</body>
+
+</html>
